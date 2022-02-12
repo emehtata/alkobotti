@@ -1,4 +1,3 @@
-from tokenize import String
 import requests
 from bs4 import BeautifulSoup
 import argparse
